@@ -1,0 +1,133 @@
+#entete
+	{
+	background-color : #000000;
+	height : 145px;
+	border : thin black solid;
+	min-height : 195px;
+	min-width : 700px
+	}	
+#corps
+	{
+	min-height : 650px;
+	min-width : 700px;
+	margin-left : 20px;
+	margin-right : 20px;
+	margin-top : 0px;
+	background-color : #d7d5d5;
+	padding: 15px;
+	}
+#Pied_de_Page
+	{
+	background-color : #000000;
+	min-width : 730px;
+	min-height : 50px;
+	margin-left : 20px;
+	margin-right : 20px;
+	border : thin black solid; 
+	color : white;
+	text-align:center;
+	}
+.info
+	{
+	position : relative;
+	vertical-align:bottom;
+	margin-top : 35%;
+	text-align : right;
+	}
+body 
+	{
+	margin : auto;
+	background-color : #192f49;
+	}
+ul
+	{
+	font-family : Colibri, Arial;
+	list-style: square;
+	}
+p
+	{
+	font-family : Colibri, Arial;
+	margin-left : 20px;
+	}
+table
+	{
+	border: thin solid black;
+	border-collapse: collapse;
+	}
+th,td
+	{
+	text-align: center;
+	border: thin solid black;
+	}
+.gauche
+	{
+	float : left;
+	}
+.droite
+	{
+	position : absolute;
+	margin-left : 100px;
+	}
+.textepiedpage
+	{
+	font-size : small;
+	font-family : "Comic sans ms", Arial;
+	color : white;
+	}
+.texteCorps
+	{
+	font-size : medium;
+	font-family : "Comic sans ms", Arial;
+	}
+.puce
+	{
+	margin-left: 20px;
+	position:relative;
+	top:3px;
+	}
+.table1
+	{
+	margin-left:230px;
+	}
+.table2
+	{
+	margin-left:160px;
+	}
+.grey
+	{
+	background-color: grey;
+	}
+.white
+	{
+	background-color: #a9b4b5;
+	}
+.centre
+	{
+	margin-left : 300px;
+	}
+.images
+	{
+	Text-align: center;
+	}
+.ecart
+	{
+	padding-left : 15px;
+	padding-right : 15px;
+	}
+a:visited
+	{
+	color: #808080;
+	}
+a:link
+	{
+	color: #1448b4;	
+	}	
+a:hover
+	{
+	color: #808080;
+	}
+
+.boutonMenu{
+	height: 50px;
+	width: 13.75%;
+}
