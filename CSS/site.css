@@ -131,3 +131,9 @@ a:hover
 	height: 50px;
 	width: 13.75%;
 }
+.carousel-inner{
+	margin: 0 auto;
+	padding: 0 37%;
+	max-width: 100%;
+	height: auto;
+}
