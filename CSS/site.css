@@ -109,11 +109,6 @@ th,td
 	{
 	Text-align: center;
 	}
-.ecart
-	{
-	padding-left : 15px;
-	padding-right : 15px;
-	}
 a:visited
 	{
 	color: #808080;
@@ -130,4 +125,13 @@ a:hover
 .boutonMenu{
 	height: 50px;
 	width: 13.75%;
+}
+.carousel-inner{
+	margin: 0 auto;
+	padding: 0 37%;
+	max-width: 100%;
+	height: auto;
+}
+h2{
+font-family: 'Old Standard TT', serif;
 }
