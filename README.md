@@ -34,3 +34,6 @@ rendre plus lisible certaines pages : Anthony
 responsive : anthony
 Changement de police : anthony
 ajout de carrousel : anthony
+
+ERREUR :
+Il y a une erreur sur la page CadreDeVie elle ne s'ouvre que via la page d'acceuil
